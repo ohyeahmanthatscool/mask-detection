@@ -1,6 +1,9 @@
 # Introduction
 Non-compliance with mask-wearing rules is a problem we face in our modern world. This program picks up on faces and determines whether or not they are wearing masks.
 
+![mask](https://user-images.githubusercontent.com/98067439/154082055-d3b47571-f389-4778-a423-4e9619ef8c51.png)
+
+
 # Requirements
 -Jetson Nano
 
