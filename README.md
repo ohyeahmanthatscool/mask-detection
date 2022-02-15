@@ -26,5 +26,6 @@ $ ./setup.sh
 
 4. To start the feed:
 ``` bash
+$ cd ~/mask-detection
 $ ./start.sh
 ```
