@@ -30,6 +30,7 @@ $ ./setup.sh
 ``` bash
 $ cd ~/jetson-inference
 $ docker/run.sh --volume ~/mask-detection:/mask-detection
+$ cd /mask-detection
 ```
 
 5. To start the feed:
