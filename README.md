@@ -14,6 +14,9 @@ Jetson Nano must be properly set up in order to run this. To set up,
 2. either run the Docker container --> https://github.com/dusty-nv/jetson-inference/blob/master/docs/aux-docker.md
 
   or build repo from source --> https://github.com/dusty-nv/jetson-inference/blob/master/docs/building-repo-2.md
-	
 
+3. Download these files to your computer	
+``` bash
+
+```
 
