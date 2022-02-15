@@ -20,3 +20,4 @@ Jetson Nano must be properly set up in order to run this. To set up,
 
 ```
 
+4. 
