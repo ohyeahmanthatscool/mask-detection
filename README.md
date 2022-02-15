@@ -15,9 +15,16 @@ Jetson Nano must be properly set up in order to run this. To set up,
 
   or build repo from source --> https://github.com/dusty-nv/jetson-inference/blob/master/docs/building-repo-2.md
 
-3. Download these files to your computer	
+3. Download these files to your computer and run setup.sh
 ``` bash
-
+$ cd ~/
+$ git clone https://github.com/ohyeahmanthatscool/mask-detection.git
+$ cd mask-detection
+$ chmod +x setup.sh
+$ ./setup.sh
 ```
 
-4. 
+4. To start the feed:
+``` bash
+$ ./start.sh
+```
