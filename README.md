@@ -26,9 +26,15 @@ $ cd mask-detection
 $ chmod +x setup.sh
 $ ./setup.sh
 ```
+4. Only follow step 4 IF you are running from the Docker container:
+``` bash
+$ cd ~/jetson-inference
+$ docker/run.sh --volume ~/mask-detection:/mask-detection
+```
 
-4. To start the feed:
+5. To start the feed:
 ``` bash
 $ cd ~/mask-detection
 $ ./start.sh
 ```
+This step may take a few minutes the first time you run it. Do not worry
